@@ -23,4 +23,8 @@ when you build in windows maybe you must configure from QDIR file path
 
 why i dont embed the music in the software because when i build then make my computer freeze because this eat my ram and make erro this say exhausted virtual memory, so i decided make music file out ffrom program. 
 
-thanks before jus enjoy it
+thanks before just enjoy it
+
+![Alt text](https://github.com/RKartodijoyo/QTBasketBallScoreV2/blob/master/paneladmin.png?raw=true?raw=true "Title")
+![Alt text](https://github.com/RKartodijoyo/QTBasketBallScoreV2/blob/master/panelscore.png?raw=true?raw=true "Title")
+![Alt text](https://github.com/RKartodijoyo/QTBasketBallScoreV2/blob/master/panelmusic.png?raw=true?raw=true "Title")

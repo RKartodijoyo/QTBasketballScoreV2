@@ -3,10 +3,15 @@ this the development from
 https://github.com/RKartodijoyo/QTBasketBallScore
 why i dont commit because i dont want to delete my old project is compatible with old 5.5 
 this must 5.8 but i build in 5.12 because of chrono library i dont know why
+
 this build with mr Ery E. Wahyutama (thanks a lot for my senior in group QT indonesia telegram (@idqtc))
+
 @e_Wahyutama (telegram)
+
 and me
+
 rizaldi Kartodijoyo (rizalkartodijoyo@gmail.com) 
+
 Qt Creator 4.8.0
 Based on Qt 5.12.0 (GCC 5.3.1 20160406 (Red Hat 5.3.1-6), 64 bit)
 
